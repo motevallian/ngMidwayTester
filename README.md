@@ -1,3 +1,6 @@
+A fork from [ng-midway-tester](https://github.com/yearofmoo/ngMidwayTester)
+ 
+
 # ngMidwayTester [![Build Status](https://travis-ci.org/yearofmoo/ngMidwayTester.png?branch=master)](https://travis-ci.org/yearofmoo/ngMidwayTester)
 
 A pure-javascript integration tester for AngularJS that can be run inline with application code.  
