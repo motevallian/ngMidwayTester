@@ -5,7 +5,8 @@ A pure-javascript integration tester for AngularJS that can be run inline with a
 ## Installation
 
 1. run `npm install ng-midway-tester`.
-2. include `./node_modules/ngMidwayTester/src/ngMidwayTester.js` into your test runner.
+2. If using Webpack or Browserify then simply use `var ngMidwayTester = require('ng-midway-tester');`.
+3. Otherwise, include `./node_modules/ngMidwayTester/src/ngMidwayTester.js` into your test runner.
 
 ## Getting Started
 
