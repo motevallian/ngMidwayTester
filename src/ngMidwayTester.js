@@ -263,3 +263,5 @@
     }
   };
 };
+
+window.ngMidwayTester = ngMidwayTester;
