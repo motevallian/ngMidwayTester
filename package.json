@@ -3,7 +3,7 @@
   "version": "2.0.6",
   "repository": {
     "type": "git",
-    "url": "git@github.com:motevallian/ngMidwayTester.git"
+    "url": "git@github.com:yearofmoo/ngMidwayTester.git"
   },
   "scripts": {
     "test": "grunt travis"
