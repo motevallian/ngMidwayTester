@@ -1,2 +1,2 @@
 require('./src/ngMidwayTester');
-module.exports = ngMidwayTester;
+module.exports = window.ngMidwayTester;
